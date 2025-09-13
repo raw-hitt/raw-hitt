@@ -35,15 +35,19 @@ With a strong foundation in both front-end and back-end development, I excel at 
 ☁️Proficient in deploying applications on Azure Web App Service and managing data with Azure Storage.
 
 
-<h3>Certifications 🏆</h3>
+<h3>🏆 Certifications </h3>
 
 
  <a href ="Azure AI Fundamentals">Azure AI Fundamentals (AI 900) </a>
 
 
  <h3>🔗 Connect with Me</h3>
-- <a href="mailto:rohitpawar0204@gmail.com">✉️ rohitpawar0204@gmail.com</a> 
+ 
+ - <a href="mailto:rohitpawar0204@gmail.com">✉️ rohitpawar0204@gmail.com</a> 
+
 - <a href="https://medium.com/@rp99452">📝 Medium </a>
+
 - <a href="https://www.linkedin.com/in/rohitpawar0204/">💼LinkedIn </a>
+
 - <a href="https://stackoverflow.com/users/6538496/raw-hitt">📊Stackoverflow</a>
 
