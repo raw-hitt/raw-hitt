@@ -26,13 +26,13 @@ With a strong foundation in both front-end and back-end development, I excel at 
 
 ⚙️My expertise lies in the Microsoft stack, where I build robust backend services and APIs using .Net, C#, MVC and Winforms. 
 
-🧩I'm also proficient in front-end technologies like Angular, jQuery, and JavaScript, Html/Css.
+🧩Proficient in front-end technologies like Angular, jQuery, and JavaScript, Html/Css.
 
-🛢️For databases, I'm well-versed in SQL Server, MySQL.
+🛢️Well-versed with database technologies like SQL Server, MySQL.
 
-🤖Experience in developing AI models for object detection.
+🤖Experienced in developing AI models for object detection.
 
-☁️Proficient in deploying applications on Azure Web Apps and managing data with Azure Storage.
+☁️Proficient in deploying applications on Azure Web App Service and managing data with Azure Storage.
 
 
 <h3>Certifications 🏆</h3>
