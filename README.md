@@ -4,7 +4,7 @@
 ###
 
 <b>
-  A passionate software developer and team leader with extensive experience in building innovative, scalable, and user-centric applications.
+  A passionate full stack developer and team leader with extensive experience in building innovative, scalable, and user-centric applications.
 With a strong foundation in both front-end and back-end development, I excel at delivering robust solutions that seamlessly blend functionality and design.
 </b>
 
@@ -15,20 +15,28 @@ With a strong foundation in both front-end and back-end development, I excel at 
 <h3>🌟 Professional Expertise</h3>
 
 
-Leadership & Collaboration: Experienced in leading teams to deliver high-quality features. I have managed testing cycles and streamlined development pipelines. I am also proficient in developing and maintaining relationships with clients.
+<b>Leadership & Collaboration:</b> Experienced in leading teams to deliver high-quality features. I have managed testing cycles and streamlined development pipelines. I am also proficient in developing and maintaining relationships with clients.
 
-Project Management: Competent at managing responsibilities in a fast-paced and high-volume atmosphere. I am skilled in getting requirements from clients and submitting estimations
+<b>Project Management:</b> Competent at managing responsibilities in a fast-paced and high-volume atmosphere. I am skilled in getting requirements from clients and submitting estimations
 
 
 <h3>💻 About My Tech Skills</h3>
 
 
 
-My expertise lies in the Microsoft stack, where I build robust backend services and APIs using .Net, C#, MVC and Winforms. 
+⚙️My expertise lies in the Microsoft stack, where I build robust backend services and APIs using .Net, C#, MVC and Winforms. 
+
+🧩I'm also proficient in front-end technologies like Angular, jQuery, and JavaScript, Html/Css.
+
+🛢️For databases, I'm well-versed in SQL Server, MySQL.
+
+🤖Experience in developing AI models for object detection.
+
+☁️Proficient in deploying applications on Azure Web Apps and managing data with Azure Storage.
 
 
-I'm also proficient in front-end technologies like Angular, jQuery, and JavaScript.
+<h3>Certifications 🏆</h3>
 
 
-For databases, I'm well-versed in SQL Server, MySQL.
+ <a href ="Azure AI Fundamentals">Azure AI Fundamentals (AI 900) </a>
 
