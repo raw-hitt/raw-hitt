@@ -39,6 +39,7 @@ With a strong foundation in both front-end and back-end development, I excel at 
 
 
  <a href ="https://learn.microsoft.com/en-us/users/rohitpawar-5272/credentials/f8b841142a7ae52">Azure AI Fundamentals (AI 900) </a>
+ <a href ="https://learn.microsoft.com/en-us/users/rohitpawar-5272/credentials/e8ad11747cc71b81">Azure Fundamentals (AZ 900) </a>
 
 
  <h3>🔗 Connect with Me</h3>
