@@ -146,11 +146,6 @@ I am passionate about building secure, maintainable, and high-performance applic
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raw-hitt&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raw-hitt&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raw-hitt&theme=github-dark&hide_border=true"/>
 </p>
 
