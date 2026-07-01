@@ -1,55 +1,193 @@
+<div align="center">
 
-<h1> Hi there, I'm Rohit Pawar <img src="https://github.com/raw-hitt/raw-hitt/blob/main/Wave.gif" /></h1>
+# Hi there 👋 I'm Rohit Pawar
 
-###
+### Technical Lead • Full Stack .NET Developer • Cloud & AI Engineer
 
-<b>
-  A passionate full stack developer and team leader with extensive experience in building innovative, scalable, and user-centric applications.
-With a strong foundation in both front-end and back-end development, I excel at delivering robust solutions that seamlessly blend functionality and design.
-</b>
+Building scalable enterprise applications with **.NET**, **Azure**, **AWS**, and **Artificial Intelligence**.
+
+<p>
+  <a href="mailto:rohitpawar0204@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohitpawar0204/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rohit%20Pawar-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://medium.com/@rp99452">
+    <img src="https://img.shields.io/badge/Medium-Articles-000000?style=for-the-badge&logo=medium"/>
+  </a>
+  <a href="https://stackoverflow.com/users/6538496/raw-hitt">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F58025?style=for-the-badge&logo=stackoverflow"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I am a **Technical Lead** and **Full Stack .NET Developer** with experience designing, developing, and delivering enterprise-grade software solutions across web, desktop, cloud, and AI platforms.
+
+My expertise spans the Microsoft technology stack, cloud-native application development, distributed systems, DevOps, and Artificial Intelligence. I have led cross-functional teams, collaborated directly with clients, and delivered scalable software throughout the complete Software Development Life Cycle (SDLC).
+
+I am passionate about building secure, maintainable, and high-performance applications that solve real-world business challenges.
+
+---
+
+# 🚀 Currently Working & Exploring
+
+- ⚡ .NET 10 & Blazor
+- 🔄 Serverless & Event-Driven Architectures
+- ☁️ Cloud Architecture on Microsoft Azure & AWS
+- 🤖 Generative AI & Large Language Models (LLMs)
+- 🧠 Retrieval-Augmented Generation (RAG)
+- 📷 Computer Vision & Object Detection
+
+---
+
+# 💼 Professional Highlights
+
+- 👨‍💼 Technical Lead with experience leading enterprise software teams
+- 💻 Full Stack .NET Developer specializing in scalable enterprise applications
+- 📦 REST APIs, Microservices & Distributed Systems
+- 🤖 AI-powered application development using OpenAI & Computer Vision
+- ☁️ Hands-on experience with Microsoft Azure & Amazon Web Services
+- 🚀 CI/CD Automation & DevOps Practices
+- 🎯 Strong advocate of Clean Code, Software Architecture & Best Practices
+
+---
+
+# 🛠️ Technology Stack
+
+## 💻 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,visualstudio" />
+</p>
+
+`ASP.NET Core` • `C#` • `Blazor` • `MVC` • `Web API` • `Entity Framework` • `WPF` • `WinForms` • `Asp.Net 4.8` • `ADO.Net` • `Classic Asp`
+
+---
+
+## 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,bootstrap" />
+</p>
+
+`Angular` • `TypeScript` • `JavaScript` • `HTML5` • `CSS3` • `Bootstrap`
+
+---
+
+## ☁️ Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws" />
+</p>
+
+### Microsoft Azure
+
+`App Service` • `Azure Functions` • `Azure Storage` • `Azure AI` • `Azure DevOps`
+
+### Amazon Web Services
+
+`EC2` • `S3` • `Lambda` • `API Gateway` • `Cognito` • `DynamoDB` • `SQS` • `SNS` • `CloudWatch` 
+
+---
+
+## 🛢️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+`SQL Server` • `MySQL` • `DynamoDB`
+
+---
+
+## 🤖 Artificial Intelligence
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+`ONNX` • `Computer Vision` • `Object Detection` • `OpenAI API` • `Azure OpenAI` • `Retrieval-Augmented Generation (RAG)` • `VectorDb` 
+
+---
+
+## ⚙️ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,azure,vscode,visualstudio,postman" />
+</p>
+
+`Git` • `GitHub` • `Azure DevOps` • `Visual Studio` • `VS Code` • `Postman` • `IIS`
+
+---
+
+# 🎓 Education
+
+| Degree | Institution | Year |
+|---------|-------------|------|
+| 🎓 **Master of Science (I.T)** | *Mumbai University* | *2016* |
+| 🎓 **Bachelor of Science (I.T)** | *Mumbai University* | *2021* |
+
+---
+
+# 🏆 Certifications
+
+- 🥇 Microsoft Certified: **Azure AI Fundamentals (AI-900)**
+- 🥇 Microsoft Certified: **Azure Fundamentals (AZ-900)**
+- 🥇 Microsoft Certified: **Azure Data Fundamentals (DP-900)**
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=raw-hitt&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raw-hitt&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raw-hitt&theme=github-dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raw-hitt&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="mailto:rohitpawar0204@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-rohitpawar0204@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rohitpawar0204/">
+<img src="https://img.shields.io/badge/LinkedIn-Rohit%20Pawar-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://medium.com/@rp99452">
+<img src="https://img.shields.io/badge/Medium-@rp99452-000000?style=for-the-badge&logo=medium"/>
+</a>
+
+<a href="https://stackoverflow.com/users/6538496/raw-hitt">
+<img src="https://img.shields.io/badge/Stack%20Overflow-raw--hitt-F58025?style=for-the-badge&logo=stackoverflow"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *"Engineering software that is scalable, reliable, and built to solve real-world problems."*
 
 
-###
 
-
-<h3>🌟 Professional Expertise</h3>
-
-
-<b>Leadership & Collaboration:</b> Experienced in leading teams to deliver high-quality features. I have managed testing cycles and streamlined development pipelines. I am also proficient in developing and maintaining relationships with clients.
-
-<b>Project Management:</b> Competent at managing responsibilities in a fast-paced and high-volume atmosphere. I am skilled in getting requirements from clients and submitting estimations
-
-
-<h3>💻 About My Tech Skills</h3>
-
-
-
-⚙️My expertise lies in the Microsoft stack, where I build robust backend services and APIs using .Net, C#, MVC and Winforms. 
-
-🧩Proficient in front-end technologies like Angular, jQuery, and JavaScript, Html/Css.
-
-🛢️Well-versed with database technologies like SQL Server, MySQL.
-
-🤖Experienced in developing AI models for object detection.
-
-☁️Proficient in deploying applications on Azure Web App Service and managing data with Azure Storage.
-
-
-<h3>🏆 Certifications </h3>
-
-
- <a href ="https://learn.microsoft.com/en-us/users/rohitpawar-5272/credentials/f8b841142a7ae52">Azure AI Fundamentals (AI 900) </a><br/>
- <a href ="https://learn.microsoft.com/en-us/users/rohitpawar-5272/credentials/e8ad11747cc71b81">Azure Fundamentals (AZ 900) </a><br/>
- <a href ="https://learn.microsoft.com/en-us/users/rohitpawar-5272/credentials/1AE9CAE3A4E7FD5E">Azure Data Fundamentals (DP 900) </a>
-
-
- <h3>🔗 Connect with Me</h3>
- 
- - <a href="mailto:rohitpawar0204@gmail.com">✉️ rohitpawar0204@gmail.com</a> 
-
-- <a href="https://medium.com/@rp99452">📝 Medium </a>
-
-- <a href="https://www.linkedin.com/in/rohitpawar0204/">💼LinkedIn </a>
-
-- <a href="https://stackoverflow.com/users/6538496/raw-hitt">📊Stackoverflow</a>
-
+</div>
