@@ -143,18 +143,6 @@ I am passionate about building secure, maintainable, and high-performance applic
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raw-hitt&theme=github-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raw-hitt&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
